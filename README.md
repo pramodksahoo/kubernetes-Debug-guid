@@ -1,7 +1,5 @@
 # kubernetes-Debug-guid
 
-# Kubernetes Debugging Tips
-
 - Debug pods: https://kubernetes.io/docs/tasks/debug-application-cluster/debug-pod-replication-controller/
 - Debug Services: https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/
 - Debug cluster: https://kubernetes.io/docs/tasks/debug-application-cluster/debug-cluster/
